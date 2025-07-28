@@ -3,7 +3,6 @@ layout: default
 title: Katie Copenhagen
 ---
 
-<section>
   ## Professional Highlights
     -Built physics based simulations in C++
     -Added custom functions to LAMMPS
@@ -12,8 +11,6 @@ title: Katie Copenhagen
     -Built a Unity game with physics-based movement and procedural behavior
     -Reverse-engineered simulation mechanics from a closed-source game
     -Spreadsheets and helper tools for various games
-</section>
-<section>
   ## Personal Highlights
     -Competitive springboard diving as a kid, including nationals in 2008
     -Viola in orchestras and symphonies as a kid and musicals in the local community theater during college
@@ -22,4 +19,4 @@ title: Katie Copenhagen
     -Video games, playing and making tools for optimizing play like price calculators / sustainability
     -Mildly addicted to true crime
     -<a href="https://www.morphmarket.com/stores/kcopenhagen/" target="_blank" rel="noopener">Hobby crested gecko breeding</a>
-</section>
+
