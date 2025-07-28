@@ -31,6 +31,13 @@ nav a {
 nav a:hover {
   color: #ffffff;
 }
+.name a {
+  text-decoration: none;
+  color: inherit;
+}
+.name a:hover {
+  color: #ffffff;
+}
 
 main {
   padding: 2rem;
