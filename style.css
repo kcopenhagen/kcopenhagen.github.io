@@ -24,12 +24,12 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #C6AAE9;
-}
-
 a:visited {
   color: #DA70D6;
+}
+
+a:hover {
+  color: #C6AAE9;
 }
 
 nav a {
