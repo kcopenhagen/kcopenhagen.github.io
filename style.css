@@ -53,12 +53,12 @@ nav a:hover {
   color: inherit;
 }
 
-.name a:hover {
-  color: #ffffff;
-}
-
 .name a:visited {
   color: inherit;
+}
+
+.name a:hover {
+  color: #ffffff;
 }
 
 main {
