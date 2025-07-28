@@ -2,7 +2,6 @@
 layout: default
 title: Katie Copenhagen
 ---
-
 ## Professional Highlights
 
 - Built physics-based simulations in C++
