@@ -31,6 +31,10 @@ nav a {
 nav a:hover {
   color: #ffffff;
 }
+
+nav a:visited {
+  color: #bbbbbb;
+}
 .name a {
   text-decoration: none;
   color: inherit;
