@@ -16,12 +16,12 @@ My little phone game - still in progress.
 Dense populations of self-propelling flexible rods. 
 
 - [Paper](https://www.biorxiv.org/content/10.1101/2025.05.23.655808v1.abstract)
-- [Video]()
+- [Video](/monolayer.html)
 
 Clusters of cancer cells.
 
 - [Paper](https://www.science.org/doi/full/10.1126/sciadv.aar8483)
-- [Video]()
+- [Video](/cellcluster.html)
 
 ## Game tools
 
