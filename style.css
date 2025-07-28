@@ -19,6 +19,18 @@ header {
   font-size: 1.8rem;
   font-weight: bold;
 }
+a {
+  color: #B3E5FC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A3D5EC;
+}
+
+a:visited {
+  color: #DA70D6;
+}
 
 nav a {
   margin-left: 1.5rem;
@@ -40,8 +52,13 @@ nav a:visited {
   text-decoration: none;
   color: inherit;
 }
+
 .name a:hover {
   color: #ffffff;
+}
+
+.name a:visited {
+  color: inherit;
 }
 
 main {
@@ -60,17 +77,3 @@ ul {
   padding-left: 1.5rem;
   list-style-position: outside;
 }
-
-a {
-  color: #B3E5FC;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #A3D5EC;
-}
-
-a:visited {
-  color: #DA70D6;
-}
-
