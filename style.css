@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-  color: #A3D5EC;
+  color: #C6AAE9;
 }
 
 a:visited {
@@ -40,12 +40,12 @@ nav a {
   transition: color 0.3s ease;
 }
 
-nav a:hover {
-  color: #ffffff;
-}
-
 nav a:visited {
   color: #bbbbbb;
+}
+
+nav a:hover {
+  color: #ffffff;
 }
 
 .name a {
