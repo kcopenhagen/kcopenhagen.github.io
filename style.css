@@ -55,3 +55,17 @@ ul {
   padding-left: 1.5rem;
   list-style-position: outside;
 }
+
+a {
+  color: #B3E5FC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A3D5EC;
+}
+
+a:visited {
+  color: #DA70D6;
+}
+
