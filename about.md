@@ -21,3 +21,5 @@ title: Katie Copenhagen
 - Video games, playing and making tools for optimizing play like price calculators / sustainability
 - Mildly addicted to true crime
 - [Hobby crested gecko breeding](https://www.morphmarket.com/stores/kcopenhagen/)
+
+<a href="media/resume.pdf" download>Download my resume (PDF)</a>
