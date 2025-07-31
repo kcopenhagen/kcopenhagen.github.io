@@ -22,4 +22,4 @@ title: Katie Copenhagen
 - Mildly addicted to true crime
 - [Hobby crested gecko breeding](https://www.morphmarket.com/stores/kcopenhagen/)
 
-[Download my resume (PDF)](/media/resume.pdf)
+[Download my resume (PDF)](/media/CopenhagenResume.pdf)
